@@ -1,0 +1,42 @@
+Script started on 2017年03月20日 (週一) 20時07分35秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoai;
+No command 'whoai' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whoai: command not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoai; pwd
+No command 'whoai' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whoai: command not found
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoai; pwd[1@m[1P[C[1@m[C[C[C[C[C[C[K[K[K[K
+pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pd2vm
+pd2vm
+pd2vm: command not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.name=duck409154005
+user.email=joe88958@gmail.com
+push.default=simple
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.url=https://github.com/duck409154005/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+remote.lab1.script.url=https://github.com/duck409154005/lab1.git
+remote.lab1.script.fetch=+refs/heads/*:refs/remotes/lab1.script/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com /duck409154005/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [K[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com//duck409154005/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月20日 (週一) 20時11分10秒
