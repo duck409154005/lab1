@@ -1,8 +1,1 @@
-The purpose of this program is to do a functional computation.
- You have to input a
- positive integer!!!!
- positive integer!!!!
- positive integer!!!!
-
-so that the program will print out a series of numbers based on your input.
-
+To compile this program, put lab1.cpp and lab1.h in the same folder so that the class in the lab1.h could be included by lab1.cpp . 
